@@ -1,0 +1,20 @@
+{
+	"id" : "noop",
+	"name" : "Noop Plugin",
+	"description" : "Plugin que crea un widget vacio para organizar el Dashboard",
+	"licence" : "AGPL",
+	"author" : "Elias Badenes",
+	"require" : "3.2",
+	"category" : "programming",
+	"hasDependency" : false,
+	"hasOwnDeamon" : false,
+	"maxDependancyInstallTime" : 0,
+	"changelog" : "",
+	"documentation" : "",
+	"link" : {
+		"forum":"",
+		"video" : ""
+	},
+	"language" : ["es_ES"],
+	"compatibility" : ["miniplus","smart","rpi","docker","diy","mobile"]
+}
