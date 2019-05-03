@@ -17,9 +17,9 @@ $eqLogics = eqLogic::byType($plugin->getId());
         <span>{{Crear}}</span>
     </div>
       <div class="cursor eqLogicAction logoSecondary" data-action="gotoPluginConf">
-      <i class="fas fa-wrench"></i>
+      <i class="fas fa-wrench" style="color:#767676;"></i>
     <br>
-    <span>--{{Configuración}}</span>
+    <span style="color:#767676;">{{Configuración}}</span>
   </div>
   </div>
   <legend><i class="fas fa-table"></i> {{Mis NooP}}</legend>
